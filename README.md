@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/Anissaoulahcerne.png" width="180px" style="border-radius: 50%; shadow: 5px 5px 15px rgba(0,0,0,0.1);" alt="Anissa Oulahcene"/>
+      <img src="https://github.com/Anissaoulahcerne.png" width="180px" style="border-radius: 50%;" alt="Anissa Oulahcene"/>
       <br/><br/>
       <a href="mailto:anisssaoulahcene@gmail.com">
         <kbd>✉️ Me contacter</kbd>
@@ -11,41 +11,42 @@
     </td>
     <td width="75%" align="left">
       <h1>✨ Anissa Oulahcene ✨</h1>
-      <h3>🚀 Ingénieure en Intelligence Artificielle & Vision par Ordinateur</h3>
+      <h3>🚀 Ingénieure IA & Vision par Ordinateur | Ex-Ingénieure Réseaux Cœur</h3>
       <p>
-        Actuellement en <b>Master 2 Informatique (Parcours IA)</b> à l'Université Paris 8, je consolide mon expertise après avoir obtenu un premier <b>Master en Vision par Ordinateur et Systèmes Intelligents</b> à l'Université Sorbonne Paris Nord. Passionnée par l'innovation technologique, je suis <b>activement à la recherche d'un stage de fin d'études</b> pour mettre mes compétences au service de projets concrets et ambitieux.
+        Actuellement en <b>Master 2 Informatique (Parcours IA)</b> à l'Université Paris 8, je consolide mon expertise après un <b>Master en Vision par Ordinateur</b> à la Sorbonne. Forte d'une expérience significative de 4 ans en <b>Réseaux & Télécoms</b> (Core Network), je suis à la recherche d'un stage de fin d'études en IA/Vision.
       </p>
       <hr/>
-      <b>📍 Localisation :</b> Île-de-France, France <br/>
-      <b>🎓 Formation :</b> Double cursus Master IA & Vision par Ordinateur <br/>
-      <b>💼 Expérience :</b> Stagiaire chez Caplogy Innovation (Drone & Vision Fisheye)
+      <b>🎓 Formations :</b> M2 IA (Paris 8) • M2 Vision (Sorbonne) • Ingénieure Réseaux (Blida) <br/>
+      <b>💼 Expériences Clefs :</b> Stage IA @Caplogy • Ingénieure Cœur @Ooredoo • Réseaux @Algérie Télécom <br/>
+      <b>📜 Certifications :</b> Cisco CCNA v7 (Routing, Switching, Wireless & Security)
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack & Toolbox
+### 🛠 Expertise Technique
 
-| Catégorie | Outils & Technologies |
+| Domaine | Technologies |
 | :--- | :--- |
-| **Intelligence Artificielle** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Vision par Ordinateur** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) **SuperYOLO • GAN • U-NET • Fisheye Calibration** |
-| **Langages & Outils** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| **IA & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) **OpenCV • SuperYOLO • GAN • U-NET** |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) **Core Network • RIP/OSPF/EIGRP • TCP/IP • Network Security** |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
-### 📂 Projets Phares
-* 🌊 **Marine Debris Detection :** Modèle intelligent pour la détection des déchets marins.
-* ✈️ **Object Detection :** Utilisation de SuperYOLO pour l'analyse d'imagerie aérienne.
-* 👤 **Biométrie :** Développement de systèmes de reconnaissance faciale.
+### 📂 Parcours Professionnel & Projets
+* 🛰 **Caplogy Innovation :** Optimisation de trajectoire drone & correction Fisheye (GAN).
+* 📱 **Ooredoo (2022-2024) :** Ingénieure Réseaux Cœur Mobile (Core Network).
+* 📞 **Algérie Telecom (2020-2022) :** Ingénieure Réseaux et Télécommunications.
+* 🌊 **Projet IA :** Détection de déchets marins et imagerie aérienne (SuperYOLO).
 
 ---
 
-### 📈 GitHub Activities
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=transparent&hide_border=true&title_color=4169E1&text_color=777" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anissaoulahcerne&layout=compact&theme=transparent&hide_border=true&title_color=4169E1&text_color=777" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=transparent&hide_border=true&title_color=4169E1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anissaoulahcerne&layout=compact&theme=transparent&hide_border=true&title_color=4169E1" width="45%" />
 </p>
 
 </div>
