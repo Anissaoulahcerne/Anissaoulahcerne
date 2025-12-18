@@ -37,8 +37,8 @@
 
 ### 📂 Parcours Professionnel & Projets
 * 🛰 **Caplogy Innovation :** Optimisation de trajectoire drone & correction Fisheye (GAN).
-* 📱 **Ooredoo (2022-2024) :** Ingénieure Réseaux Cœur Mobile (Core Network).
-* 📞 **Algérie Telecom (2020-2022) :** Ingénieure Réseaux et Télécommunications.
+* 📱 **Ooredoo:** Ingénieure Réseaux Cœur Mobile (Core Network).
+* 📞 **Algérie Telecom :** Ingénieure Réseaux et Télécommunications.
 * 🌊 **Projet IA :** Détection de déchets marins et imagerie aérienne (SuperYOLO).
 
 ---
