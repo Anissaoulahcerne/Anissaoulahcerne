@@ -8,7 +8,7 @@
       <b>📩 Contact :</b><br/>
       <a href="mailto:anisssaoulahcene@gmail.com">anisssaoulahcene@gmail.com</a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/English-C1_Level-4169E1?style=flat-square" />
+     
     </td>
     <td width="70%" align="left">
       <h1>✨ Anissa Oulahcene ✨</h1>
