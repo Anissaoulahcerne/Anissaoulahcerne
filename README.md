@@ -10,7 +10,7 @@
     </td>
     <td width="70%" align="left">
       <h1>✨ Anissa Oulahcene ✨</h1>
-      <h3>🚀 Ingénieure IA & Vision par Ordinateur | Ex-Ingénieure Réseaux Cœur</h3>
+      <h3>🚀 Ingénieure IA & Vision par Ordinateur</h3>
       <p>
         Actuellement en <b>Master 2 Informatique (Parcours IA)</b> à l'Université Paris 8, je consolide mon expertise après un premier <b>Master en Vision par Ordinateur</b> à la Sorbonne. Forte d'un parcours de 4 ans en <b>Réseaux & Télécoms</b>, je suis à la recherche d'un stage de fin d'études pour appliquer mes compétences en IA et Vision.
       </p>
