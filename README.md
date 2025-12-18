@@ -1,61 +1,38 @@
-<div align="center">
+# Hi there, I'm Anissa Oulahcene 👋
 
-<table border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/Anissaoulahcerne.png" width="180px" style="border-radius: 50%;" alt="Anissa Oulahcene"/>
-      <br/><br/>
-      <b>📩 Contact :</b><br/>
-      <a href="mailto:anisssaoulahcene@gmail.com">anisssaoulahcene@gmail.com</a>
-    </td>
-    <td width="70%" align="left">
-      <h1>✨ Anissa Oulahcene ✨</h1>
-      <h3>🚀 Ingénieure IA & Vision par Ordinateur</h3>
-      <p>
-Actuellement en <b>Master 2 Informatique, spécialisation Intelligence Artificielle</b>, à l’Université Paris 8, je poursuis mon expertise en <b>IA </b> après un premier <b>Master en Vision par Ordinateur</b> à la Sorbonne. Avec une expérience préalable en <b>ingénierie Réseaux et Télécommunications</b>, je suis à la recherche d’un stage de fin d’études pour appliquer mes compétences en <b>Intelligence Artificielle</b>.
-      </p>
-      <hr/>
-      <p>📍 Île-de-France, France</p>
-    </td>
-  </tr>
-</table>
+### 🚀 Ingénieure en Intelligence Artificielle & Vision par Ordinateur
+Actuellement en **Master 2 IA** à Paris 8, après un **M2 Vision** à la Sorbonne. Passionnée par l'innovation, je cherche à appliquer mon expertise technique à des projets concrets.
 
 ---
 
+### 🔭 Je travaille actuellement sur :
+- **Stage IA @Caplogy :** Optimisation de trajectoire drone et correction Fisheye via **GAN/U-NET**.
+- **Deep Learning :** Détection de déchets marins et imagerie aérienne (**SuperYOLO**).
+- **Réseaux :** Expertise de 4 ans en **Core Network** (Ex-Ooredoo & Algérie Télécom).
 
-### 💼 Expériences Professionnelles
-
-* **Ingénieure Stagiaire IA & Vision** | *Caplogy Innovation* (2025)
-    * Optimisation de trajectoires de drones autonomes et correction de distorsions (GAN, U-NET).
-* **Ingénieure Réseaux Cœur Mobile** | *Ooredoo Algérie* (2022 - 2024)
-    * Gestion et maintenance du Core Network.
-* **Ingénieure Réseaux et Télécoms** | *Algérie Télécom* (2020 - 2022)
-    * Supervision et déploiement d'infrastructures réseaux.
+### 🌱 En recherche de :
+- 🎯 **Stage de fin d'études** en Intelligence Artificielle / Vision par Ordinateur.
 
 ---
 
-### 🎓 Formations
+### 🛠 Skills & Technologies
 
-* **M2 Informatique - IA** | Université Paris 8 (En cours)
-* **M2 Vision par Ordinateur** | Université Sorbonne Paris Nord (2024)
-* **Ingénieure d'État en Systèmes Intelligents** | Université de Blida (2020)
+**Languages & Vision**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+**AI Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠 Expertise Technique
-
-| Domaine | Outils & Technologies |
-| :--- | :--- |
-| **Intelligence Artificielle** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) **OpenCV • SuperYOLO • GAN** |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) **CCNA • Core Network • Protocoles IP • Security** |
-| **Programmation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+**Networking (Cisco Certified)**
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) **CCNA • Core Network • Security • Routing**
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=transparent&hide_border=true&title_color=4169E1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anissaoulahcerne&layout=compact&theme=transparent&hide_border=true&title_color=4169E1" width="45%" />
-</p>
+### 📊 GitHub Stats
+![Anissa's Stats](https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=radical)
 
-</div>
+---
+
+### 📫 Contactez-moi
+- **Email :** [anisssaoulahcene@gmail.com](mailto:anisssaoulahcene@gmail.com)
+- **Localisation :** Île-de-France 🇫🇷
