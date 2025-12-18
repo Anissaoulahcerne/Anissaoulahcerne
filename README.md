@@ -11,7 +11,7 @@ Actuellement en Master 2 Informatique, spécialisation Intelligence Artificielle
 - **Vision industrielle :** Développement et entraînement d'un modèle de Deep Learning pour la correction de distorsion fisheye et la rectification d'images.
 
 ### 🌱 Statut actuel :
-- 🎯 **En recherche active :** Stage de fin d’études en Intelligence Artificielle / Computer Vision.
+- 🎯 **En recherche active :** Stage de fin d’études en Intelligence Artificielle.
 
 ---
 
