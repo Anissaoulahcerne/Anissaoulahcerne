@@ -12,7 +12,7 @@
       <h1>✨ Anissa Oulahcene ✨</h1>
       <h3>🚀 Ingénieure IA & Vision par Ordinateur</h3>
       <p>
-Actuellement en <b>Master 2 Informatique, spécialisation Intelligence Artificielle</b>, à l’Université Paris 8, je poursuis mon expertise en <b>IA et Vision par Ordinateur</b> après un premier <b>Master en Vision par Ordinateur</b> à la Sorbonne. Avec une expérience préalable en <b>ingénierie Réseaux et Télécommunications</b>, je suis à la recherche d’un stage de fin d’études pour appliquer mes compétences en <b>Intelligence Artificielle et Vision par Ordinateur</b>.
+Actuellement en <b>Master 2 Informatique, spécialisation Intelligence Artificielle</b>, à l’Université Paris 8, je poursuis mon expertise en <b>IA </b> après un premier <b>Master en Vision par Ordinateur</b> à la Sorbonne. Avec une expérience préalable en <b>ingénierie Réseaux et Télécommunications</b>, je suis à la recherche d’un stage de fin d’études pour appliquer mes compétences en <b>Intelligence Artificielle et Vision par Ordinateur</b>.
       </p>
       <hr/>
       <p>📍 Île-de-France, France</p>
