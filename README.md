@@ -18,7 +18,7 @@
       <hr/>
       <b>📍 Localisation :</b> Île-de-France, France <br/>
       <b>🎓 Formation :</b> Double cursus Master IA & Vision par Ordinateur <br/>
-      <b>💼 Stage actuel :</b> Caplogy Innovation (Drone & Vision Fisheye)
+      <b>💼 Expérience :</b> Stagiaire chez Caplogy Innovation (Drone & Vision Fisheye)
     </td>
   </tr>
 </table>
