@@ -1,41 +1,55 @@
-# Salut, moi c'est Anissa Oulahcene ! 👋
-### 🤖 Ingénieure en Intelligence Artificielle & Vision par Ordinateur
+<div align="center">
 
-Actuellement en **Master 2 IA** à l'Université Paris 8, je me spécialise dans le Deep Learning et le traitement d'image. Je suis passionnée par la résolution de problèmes complexes, de la détection d'objets marins à l'optimisation de trajectoires de drones.
+# ✨ Anissa Oulahcene ✨
+### 🚀 AI Engineer | Computer Vision Specialist | Deep Learning Enthusiast
 
----
-
-### 🚀 Expérience Actuelle
-- **Stage Ingénieur Vision par Ordinateur & IA** chez *Caplogy Innovation* (Vélizy)
-  - Optimisation du suivi de trajectoire par drone (vision fisheye).
-  - Développement de modèles Deep Learning pour la correction de distorsions (**GAN, U-NET**).
-
-### 🛠 Compétences Techniques
-
-**🧠 Intelligence Artificielle & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-
-**👁 Vision par Ordinateur**
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) **NumPy | Matplotlib | SuperYOLO | GAN | U-NET**
-
-**💻 Programmation & Outils**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Master+2+Intelligence+Artificielle;Specialized+in+Computer+Vision;Deep+Learning+%26+U-NET;Exploring+the+future+of+AI)](https://git.io/typing-svg)
 
 ---
 
-### 📂 Projets Marquants
-- **Marine Debris Detection :** Conception d’un modèle Deep Learning pour la détection des déchets marins.
-- **Aviation Imagery :** Détection d'objets basée sur **SuperYOLO** pour l'imagerie aérienne.
-- **Biométrie :** Reconnaissance faciale avancée.
+| 🔭 Actuellement en stage | 🎓 Formation | 📍 Localisation |
+| :--- | :--- | :--- |
+| **Caplogy Innovation** (Drone & Fisheye) | **Master 2 IA** - Paris 8 | **Île-de-France, France** |
 
 ---
 
-### 📊 Statistiques GitHub
-![Stats d'Anissa](https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=radical&rank_icon=github)
+### 🛠 Tech Stack & Toolbox
 
-### 📫 Me contacter
-- **Email :** anisssaoulahcene@gmail.com
-- **Localisation :** Île-de-France 🇫🇷
-- **Langues :** Français (Courant), Anglais (C1), Arabe (Maternel)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) **SuperYOLO • GAN • U-NET** |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white) **CCNA • Routing • Security** |
 
 ---
+
+### 🌟 Projets Phares
+
+<table border="0">
+ <tr>
+    <td><b color="#4169E1">🌊 Marine Debris</b><br>Détection de déchets marins via Deep Learning.</td>
+    <td><b color="#4169E1">✈️ SuperYOLO</b><br>Analyse d'imagerie aérienne haute performance.</td>
+ </tr>
+ <tr>
+    <td><b color="#4169E1">🛸 Drone Vision</b><br>Correction de distorsion fisheye (GAN).</td>
+    <td><b color="#4169E1">👤 Biométrie</b><br>Systèmes de reconnaissance faciale.</td>
+ </tr>
+</table>
+
+---
+
+### 📈 GitHub Activities
+
+![Anissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anissaoulahcerne&show_icons=true&theme=transparent&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=777)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anissaoulahcerne&layout=compact&theme=transparent&hide_border=true&title_color=4169E1&text_color=777)
+
+---
+
+### 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anisssaoulahcene@gmail.com)
+![English Level](https://img.shields.io/badge/English-C1_Level-4169E1?style=for-the-badge)
+
+</div>
